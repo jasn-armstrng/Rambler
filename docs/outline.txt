@@ -1,0 +1,19 @@
+Description:
+  Rambler is a application the prints text as if typed to the terminal for read-
+  ing.
+
+Motivation:
+  The joy of watching characters stream across a terminal interface; seeing the
+  unfolding of a story, a truth, or a computation.
+
+User journey:
+  1. Launch ./rambler in terminal.
+  2. Get introduction to application.
+  3. Have menu for reference.
+  4. Use arrow-keys to navigate the file system for .txt file to open.
+  5. Open file for *reading.
+  6. Pause/continue reading.
+  7. Adjust the reading speed.
+  8. Stop reading.
+  9. Go back to file search.
+  10. Quit program.
